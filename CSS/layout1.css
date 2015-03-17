@@ -61,8 +61,8 @@ header{
 }
 .previous{
 	position: fixed;
+	top: 110px;
 	left: -40px;
-	margin-top: -330px;
 	height: 40px;
 	cursor: pointer;
 	z-index: 99;
